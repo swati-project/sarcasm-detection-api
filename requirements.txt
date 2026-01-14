@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+nltk
+imbalanced-learn
+tensorflow==2.15.0
